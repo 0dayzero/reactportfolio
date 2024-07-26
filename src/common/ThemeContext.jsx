@@ -1,3 +1,6 @@
+var ThemeContext= require('prop-types');
+import ThemeContext from 'prop-types';
+
 import React, { createContext, useContext, useEffect, useState } from 'react';
 
 const ThemeContext = createContext();

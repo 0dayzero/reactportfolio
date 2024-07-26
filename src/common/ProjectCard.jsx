@@ -1,4 +1,5 @@
 import React from 'react';
+var ProjectCard = require('prop-types');
 
 function ProjectCard({ src, link, h3, p }) {
   return (

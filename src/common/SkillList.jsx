@@ -1,3 +1,6 @@
+
+var SkillList = require('prop-types');
+
 function SkillList({ src, skill }) {
   return (
     <span>
